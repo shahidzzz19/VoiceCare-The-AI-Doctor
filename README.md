@@ -1,3 +1,6 @@
+# VoiceCare-The-AI-Doctor
+A voice-enabled assistant providing medical insights and advice based on user interactions, using voice and image inputs for a personalized experience.
+
 # Project Setup Guide
 
 This guide provides step-by-step instructions to set up your project environment, including the installation of FFmpeg and PortAudio across macOS, Linux, and Windows, as well as setting up a Python virtual environment using Pipenv, pip, or conda.
